@@ -1,0 +1,1164 @@
+{"multi": true, "question": "CZ6496的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的航司是哪个？", "answers": [0], "condidate": [["CA8346的航司", "中国航空"]]}
+{"multi": false, "question": "北京疫情等级？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "成都的防疫政策如何？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的目的地哪里？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "南京"]]}
+{"multi": false, "question": "CA8346是哪个航司？", "answers": [0], "condidate": [["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的前序航班的出发地是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "南京"]]}
+{"multi": false, "question": "B207U飞了多少年？", "answers": [0], "condidate": [["B207U的机龄", "2.8年"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的行李转盘是多少？", "answers": [0], "condidate": [["CA1590的行李转盘", "31"]]}
+{"multi": true, "question": "CA1327的前序航班的起飞时间？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的起飞时间", "08:05"]]}
+{"multi": false, "question": "CA1327的出发地是？", "answers": [0], "condidate": [["CA1327的出发地", "北京"]]}
+{"multi": true, "question": "H01774的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "H01774的前一个航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01773"]]}
+{"multi": false, "question": "北京的防疫政策如何？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "杭州的防疫政策如何？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "深圳疫情等级是什么？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班有餐食吗？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否有餐食", "无"]]}
+{"multi": true, "question": "H01774的前序航班的航司是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "CA1590的目的地哪里？", "answers": [0], "condidate": [["CA1590的目的地", "北京"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的值机柜台有哪些？", "answers": [0], "condidate": [["CA8346的值机柜台", "B"]]}
+{"multi": true, "question": "CA1327的前序航班的执飞飞机？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的执飞飞机", "B7879"]]}
+{"multi": false, "question": "CZ6501属于哪个航司？", "answers": [0], "condidate": [["CZ6501的航司", "南方航空"]]}
+{"multi": true, "question": "CZ6501的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": true, "question": "CZ6501的前序航班的起点是哪？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的出发地", "沈阳"]]}
+{"multi": false, "question": "成都的疫情等级多少？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327的起飞时间？", "answers": [0], "condidate": [["CA1327的起飞时间", "14:00"]]}
+{"multi": false, "question": "CA1590的终点是哪？", "answers": [0], "condidate": [["CA1590的目的地", "北京"]]}
+{"multi": true, "question": "CA8346的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班的准点率？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的准点率", "90"]]}
+{"multi": false, "question": "B7879的机龄是多少年？", "answers": [0], "condidate": [["B7879的机龄", "5年"]]}
+{"multi": false, "question": "CA8346的出发地是？", "answers": [0], "condidate": [["CA8346的出发地", "呼和浩特"]]}
+{"multi": true, "question": "CZ6496的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "南京疫情等级是什么？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "H01774是否延误？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": true, "question": "CA1590的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班的目的地是哪？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的目的地", "北京"]]}
+{"multi": false, "question": "H01774属于哪个航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "H01774的执飞飞机？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": true, "question": "CZ6501的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "CZ6496的出发地是？", "answers": [0], "condidate": [["CZ6496的出发地", "沈阳"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": false, "question": "CA1590有没有餐食？", "answers": [0], "condidate": [["CA1590的是否有餐食", "有"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "H01774前序航班是什么？", "answers": [0], "condidate": [["H01774的前序航班", "H01774"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": false, "question": "呼和浩特防疫政策是什么样的？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连的疫情等级？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班是否有餐食？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "B7879有多少个仓位？", "answers": [0], "condidate": [["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "CA1327的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "CA1327的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "ZH1905的前序航班的目的地哪里？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的目的地", "杭州"]]}
+{"multi": true, "question": "CA8346的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905的起飞时间？", "answers": [0], "condidate": [["ZH1905的起飞时间", "15:30"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "乌鲁木齐的防疫政策如何？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的行李转盘是多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的行李转盘", "未知"]]}
+{"multi": false, "question": "ZH1905的行李转盘是多少号？", "answers": [0], "condidate": [["ZH1905的行李转盘", "未知"]]}
+{"multi": true, "question": "H01774的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "CA1590是延误状态吗？", "answers": [0], "condidate": [["CA1590的是否延误", "否"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的起飞时间？", "answers": [0], "condidate": [["H01774的起飞时间", "10:15"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "成都的防疫政策如何？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班的前一个航班是哪个？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的前序航班", "无"]]}
+{"multi": false, "question": "CZ6496的行李转盘是多少？", "answers": [0], "condidate": [["CZ6496的行李转盘", "4"]]}
+{"multi": false, "question": "B7879仓位数量有多少？", "answers": [0], "condidate": [["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "H01774的前序航班的出发地哪里？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "南京"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "深圳防疫政策是什么样的？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327的目的地是哪？", "answers": [0], "condidate": [["CA1327的目的地", "广州"]]}
+{"multi": false, "question": "CZ6496的目的地是？", "answers": [0], "condidate": [["CZ6496的目的地", "上海"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "CZ6501的准点率如何？", "answers": [0], "condidate": [["CZ6501的准点率", "81.9"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班属于什么航司？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的航司", "中国航空"]]}
+{"multi": false, "question": "CZ6501的目的地是？", "answers": [0], "condidate": [["CZ6501的目的地", "上海"]]}
+{"multi": true, "question": "H01774的前序航班的前一个航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01773"]]}
+{"multi": false, "question": "CA1327的终点是哪？", "answers": [0], "condidate": [["CA1327的目的地", "广州"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905有没有餐食？", "answers": [0], "condidate": [["ZH1905的是否有餐食", "无"]]}
+{"multi": true, "question": "H01774的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327属于什么航司？", "answers": [0], "condidate": [["CA1327的航司", "中国航空"]]}
+{"multi": false, "question": "B301L有多少个仓位？", "answers": [0], "condidate": [["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "忻州的疫情等级多少？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班什么时起飞？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的起飞时间", "08:00"]]}
+{"multi": false, "question": "H01774什么时起飞？", "answers": [0], "condidate": [["H01774的起飞时间", "10:15"]]}
+{"multi": false, "question": "忻州疫情等级是什么？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "南京疫情等级是什么？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的起飞时间？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "10:15"]]}
+{"multi": true, "question": "ZH1905的前序航班的登机口是多少？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的登机口", "113"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "B7879是哪个型号？", "answers": [0], "condidate": [["B7879的型号", "B777-300ER"]]}
+{"multi": true, "question": "H01774的前序航班的航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "上海疫情等级是什么？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346有没有餐食？", "answers": [0], "condidate": [["CA8346的是否有餐食", "无"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "西安的疫情等级是什么？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班延误了吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": false, "question": "上海的疫情等级多少？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": false, "question": "B301L飞了多少年？", "answers": [0], "condidate": [["B301L的机龄", "2.8年"]]}
+{"multi": true, "question": "ZH1905的前序航班的出发地是哪？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的出发地", "呼和浩特"]]}
+{"multi": false, "question": "南京的疫情等级？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "南京的疫情等级？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "大连的防疫政策是什么样的？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327的前一个航班是哪个？", "answers": [0], "condidate": [["CA1327的前序航班", "CA1590"]]}
+{"multi": false, "question": "CA1590的值机柜台是多少？", "answers": [0], "condidate": [["CA1590的值机柜台", "A08-A21"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的出发地是？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的出发地", "沈阳"]]}
+{"multi": false, "question": "CA1327的执飞飞机多少？", "answers": [0], "condidate": [["CA1327的执飞飞机", "B7879"]]}
+{"multi": true, "question": "CZ6501的前序航班几点起飞？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的起飞时间", "13:35"]]}
+{"multi": false, "question": "ZH1905的目的地哪里？", "answers": [0], "condidate": [["ZH1905的目的地", "西安"]]}
+{"multi": false, "question": "H01774的目的地是？", "answers": [0], "condidate": [["H01774的目的地", "南京"]]}
+{"multi": false, "question": "大连的防疫政策是什么样的？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1590的准点率如何？", "answers": [0], "condidate": [["CA1590的准点率", "81.9"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "B1681仓位数量？", "answers": [0], "condidate": [["B1681的仓位数量", "150"]]}
+{"multi": true, "question": "H01774的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": false, "question": "B301L有多少个仓位？", "answers": [0], "condidate": [["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "CZ6496延误了吗？", "answers": [0], "condidate": [["CZ6496的是否延误", "否"]]}
+{"multi": false, "question": "B207U的机龄是多少年？", "answers": [0], "condidate": [["B207U的机龄", "2.8年"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "CZ6501是延误状态吗？", "answers": [0], "condidate": [["CZ6501的是否延误", "否"]]}
+{"multi": false, "question": "大连疫情等级是什么？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905延误了吗？", "answers": [0], "condidate": [["ZH1905的是否延误", "否"]]}
+{"multi": true, "question": "H01774的前序航班的终点是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "南京"]]}
+{"multi": false, "question": "杭州的疫情等级多少？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班前序航班是哪个？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的前序航班", "无"]]}
+{"multi": false, "question": "CA1590的前一个航班是哪个？", "answers": [0], "condidate": [["CA1590的前序航班", "无"]]}
+{"multi": true, "question": "CA1590的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": false, "question": "南京防疫政策是什么样的？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774的航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "上海的防疫政策是什么样的？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B7879飞了几年？", "answers": [0], "condidate": [["B7879的机龄", "5年"]]}
+{"multi": false, "question": "CA8346是延误状态吗？", "answers": [0], "condidate": [["CA8346的是否延误", "无"]]}
+{"multi": true, "question": "CA8346的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的起飞时间？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "13:05"]]}
+{"multi": false, "question": "忻州防疫政策是什么样的？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496的值机柜台是多少？", "answers": [0], "condidate": [["CZ6496的值机柜台", "A1-10,A21-A40"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班是否有餐食？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否有餐食", "无"]]}
+{"multi": false, "question": "西安的疫情等级是什么？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级是什么？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班的执飞飞机多少？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的执飞飞机", "B6733"]]}
+{"multi": false, "question": "广州的防疫政策是什么样的？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班是否有餐食？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否有餐食", "有"]]}
+{"multi": true, "question": "CA1327的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346几点起飞？", "answers": [0], "condidate": [["CA8346的起飞时间", "08:00"]]}
+{"multi": true, "question": "H01774的前序航班是延误状态吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "B301L仓位数量？", "answers": [0], "condidate": [["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "杭州疫情等级是多少？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的登机口有哪些？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的登机口", "33"]]}
+{"multi": true, "question": "H01774的出发地疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班是哪个航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590是否延误？", "answers": [0], "condidate": [["CA1590的是否延误", "否"]]}
+{"multi": false, "question": "B7879的机龄是多少？", "answers": [0], "condidate": [["B7879的机龄", "5年"]]}
+{"multi": true, "question": "CZ6496的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的航司？", "answers": [0], "condidate": [["CZ6501的航司", "南方航空"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级是什么？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": false, "question": "南京疫情等级？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905的执飞飞机？", "answers": [0], "condidate": [["ZH1905的执飞飞机", "B6733"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的出发地哪里？", "answers": [0], "condidate": [["CZ6501的出发地", "沈阳"]]}
+{"multi": true, "question": "CZ6496的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327的出发地哪里？", "answers": [0], "condidate": [["CA1327的出发地", "北京"]]}
+{"multi": false, "question": "CA8346是否有餐食？", "answers": [0], "condidate": [["CA8346的是否有餐食", "无"]]}
+{"multi": false, "question": "忻州的疫情等级是什么？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": true, "question": "CA1327的前序航班的目的地哪里？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的目的地", "北京"]]}
+{"multi": false, "question": "B301L的机龄是多少年？", "answers": [0], "condidate": [["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "B6733飞了多少年？", "answers": [0], "condidate": [["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "H01774的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "成都的疫情等级？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班属于哪个航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "西安疫情等级？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "CA8346的执飞飞机多少？", "answers": [0], "condidate": [["CA8346的执飞飞机", "B6733"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的出发地是哪？", "answers": [0], "condidate": [["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "CA8346的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "深圳的疫情等级？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班是延误状态吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": false, "question": "H01774属于什么航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "H01774的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "上海防疫政策是什么样的？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的目的地是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "南京"]]}
+{"multi": false, "question": "乌鲁木齐的防疫政策是什么样的？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "ZH1905的终点是哪？", "answers": [0], "condidate": [["ZH1905的目的地", "西安"]]}
+{"multi": false, "question": "大连疫情等级是多少？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327有没有餐食？", "answers": [0], "condidate": [["CA1327的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的前序航班什么时起飞？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的起飞时间", "13:35"]]}
+{"multi": true, "question": "H01774的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "忻州的防疫政策是什么样的？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905的起点是哪？", "answers": [0], "condidate": [["ZH1905的出发地", "杭州"]]}
+{"multi": false, "question": "忻州疫情等级是什么？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": false, "question": "大连的防疫政策如何？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的出发地是哪？", "answers": [0], "condidate": [["CA8346的出发地", "呼和浩特"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "B6733仓位数量有多少？", "answers": [0], "condidate": [["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "H01774的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "H01774的出发地是哪？", "answers": [0], "condidate": [["H01774的出发地", "南京"]]}
+{"multi": true, "question": "H01774的前序航班前序航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01774"]]}
+{"multi": true, "question": "CZ6501的前序航班的航司是哪个？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "CA1327的前序航班的出发地是哪？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "H01774的前序航班前序航班是什么？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01774"]]}
+{"multi": false, "question": "广州的防疫政策如何？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905属于什么航司？", "answers": [0], "condidate": [["ZH1905的航司", "深圳航空"]]}
+{"multi": true, "question": "CZ6501的前序航班的出发地哪里？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的出发地", "沈阳"]]}
+{"multi": false, "question": "H01774的准点率？", "answers": [0], "condidate": [["H01774的准点率", "90"]]}
+{"multi": false, "question": "ZH1905的执飞飞机什么？", "answers": [0], "condidate": [["ZH1905的执飞飞机", "B6733"]]}
+{"multi": false, "question": "西安的防疫政策如何？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": true, "question": "CA1590的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "B207U的机龄是多少？", "answers": [0], "condidate": [["B207U的机龄", "2.8年"]]}
+{"multi": false, "question": "北京的防疫政策如何？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B207U飞了几年？", "answers": [0], "condidate": [["B207U的机龄", "2.8年"]]}
+{"multi": true, "question": "ZH1905的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "西安疫情等级是多少？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的登机口有哪些？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的登机口", "2"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的执飞飞机？", "answers": [0], "condidate": [["CA8346的执飞飞机", "B6733"]]}
+{"multi": true, "question": "CA1327的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "ZH1905的前序航班的航司是哪个？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "CZ6501的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班是延误状态吗？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否延误", "否"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590什么时起飞？", "answers": [0], "condidate": [["CA1590的起飞时间", "08:05"]]}
+{"multi": false, "question": "沈阳防疫政策是什么样的？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "西安疫情等级是多少？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的执飞飞机什么？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的执飞飞机", "B7879"]]}
+{"multi": true, "question": "CZ6501的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA1327的前序航班的行李转盘是多少？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的行李转盘", "31"]]}
+{"multi": false, "question": "B301L是哪个型号？", "answers": [0], "condidate": [["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "ZH1905的航司是哪个？", "answers": [0], "condidate": [["ZH1905的航司", "深圳航空"]]}
+{"multi": false, "question": "成都疫情等级是什么？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496前序航班是哪个？", "answers": [0], "condidate": [["CZ6496的前序航班", "无"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的登机口有哪些？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的登机口", "30"]]}
+{"multi": false, "question": "上海的防疫政策是什么样的？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班几点起飞？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的起飞时间", "08:00"]]}
+{"multi": false, "question": "CZ6496的准点率如何？", "answers": [0], "condidate": [["CZ6496的准点率", "81.9"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": true, "question": "CA8346的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774的行李转盘是多少号？", "answers": [0], "condidate": [["H01774的行李转盘", "101"]]}
+{"multi": true, "question": "CZ6501的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496的前序航班是哪个？", "answers": [0], "condidate": [["CZ6496的前序航班", "无"]]}
+{"multi": false, "question": "B207U是哪个型号的？", "answers": [0], "condidate": [["B207U的型号", "B787-9"]]}
+{"multi": false, "question": "南京疫情等级是多少？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的航司？", "answers": [0], "condidate": [["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "B1681有多少个仓位？", "answers": [0], "condidate": [["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "CZ6496的终点是哪？", "answers": [0], "condidate": [["CZ6496的目的地", "上海"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的值机柜台有哪些？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的值机柜台", "A1-10,A21-A40"]]}
+{"multi": true, "question": "ZH1905的前序航班是哪个航司？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "CZ6496的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "ZH1905是延误状态吗？", "answers": [0], "condidate": [["ZH1905的是否延误", "否"]]}
+{"multi": true, "question": "H01774的前序航班的出发地是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "忻州"]]}
+{"multi": false, "question": "B6733有多少个仓位？", "answers": [0], "condidate": [["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "H01774的出发地疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的行李转盘是多少号？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的行李转盘", "4"]]}
+{"multi": false, "question": "西安疫情等级？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的登机口有哪些？", "answers": [0], "condidate": [["H01774的登机口", "2"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496什么时起飞？", "answers": [0], "condidate": [["CZ6496的起飞时间", "13:35"]]}
+{"multi": true, "question": "CA8346的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班是否有餐食？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否有餐食", "有"]]}
+{"multi": true, "question": "H01774的前序航班几点起飞？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "10:15"]]}
+{"multi": true, "question": "ZH1905的前序航班前序航班是哪个？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "上海疫情等级是多少？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "B207U的仓位数量是多少？", "answers": [0], "condidate": [["B207U的仓位数量", "120"]]}
+{"multi": true, "question": "H01774的前序航班是哪个航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "ZH1905的前序航班是延误状态吗？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否延误", "无"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CZ6496的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连的疫情等级多少？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "成都的防疫政策是什么样的？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "沈阳疫情等级？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327的出发地是哪？", "answers": [0], "condidate": [["CA1327的出发地", "北京"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501是哪个航司？", "answers": [0], "condidate": [["CZ6501的航司", "南方航空"]]}
+{"multi": true, "question": "H01774的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": false, "question": "CA1327是否有餐食？", "answers": [0], "condidate": [["CA1327的是否有餐食", "有"]]}
+{"multi": true, "question": "H01774的前序航班的目的地哪里？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "大连"]]}
+{"multi": true, "question": "H01774的前序航班的起点是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "忻州"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B6733是哪个型号的？", "answers": [0], "condidate": [["B6733的型号", "A320-200"]]}
+{"multi": false, "question": "CA1327的目的地哪里？", "answers": [0], "condidate": [["CA1327的目的地", "广州"]]}
+{"multi": true, "question": "H01774的前序航班有餐食吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "B301L仓位数量有多少？", "answers": [0], "condidate": [["B301L的仓位数量", "70"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327的目的地是？", "answers": [0], "condidate": [["CA1327的目的地", "广州"]]}
+{"multi": false, "question": "北京的疫情等级多少？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "ZH1905是否延误？", "answers": [0], "condidate": [["ZH1905的是否延误", "否"]]}
+{"multi": true, "question": "H01774的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "CA8346属于哪个航司？", "answers": [0], "condidate": [["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的登机口有哪些？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的登机口", "113"]]}
+{"multi": false, "question": "ZH1905的登机口是多少？", "answers": [0], "condidate": [["ZH1905的登机口", "B83"]]}
+{"multi": false, "question": "深圳疫情等级？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": false, "question": "上海的疫情等级？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的准点率？", "answers": [0], "condidate": [["CA1590的准点率", "81.9"]]}
+{"multi": false, "question": "ZH1905什么时起飞？", "answers": [0], "condidate": [["ZH1905的起飞时间", "15:30"]]}
+{"multi": false, "question": "ZH1905前序航班是什么？", "answers": [0], "condidate": [["ZH1905的前序航班", "CA8346"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "忻州疫情等级？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "CA1590的出发地是？", "answers": [0], "condidate": [["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "H01774的前序航班前序航班是什么？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01773"]]}
+{"multi": true, "question": "H01774的前序航班的出发地哪里？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "忻州"]]}
+{"multi": true, "question": "ZH1905的前序航班属于什么航司？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的前序航班的行李转盘是多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的行李转盘", "101"]]}
+{"multi": true, "question": "H01774的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": false, "question": "西安防疫政策是什么样的？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班有没有餐食？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的起飞时间？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的起飞时间", "08:00"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": false, "question": "西安的疫情等级多少？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的终点是哪？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的目的地", "杭州"]]}
+{"multi": false, "question": "西安的防疫政策是什么样的？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B1681是什么型号的？", "answers": [0], "condidate": [["B1681的型号", "A320-200"]]}
+{"multi": false, "question": "H01774的执飞飞机多少？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "CZ6501的行李转盘是多少？", "answers": [0], "condidate": [["CZ6501的行李转盘", "35"]]}
+{"multi": true, "question": "ZH1905的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "B7879有多少个仓位？", "answers": [0], "condidate": [["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774是哪个航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "H01774前序航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01773"]]}
+{"multi": true, "question": "ZH1905的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CA8346的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的行李转盘是多少号？", "answers": [0], "condidate": [["CZ6496的行李转盘", "4"]]}
+{"multi": false, "question": "CA8346的目的地是哪？", "answers": [0], "condidate": [["CA8346的目的地", "杭州"]]}
+{"multi": false, "question": "CZ6501有餐食吗？", "answers": [0], "condidate": [["CZ6501的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的前序航班属于什么航司？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的执飞飞机？", "answers": [0], "condidate": [["CZ6501的执飞飞机", "B301L"]]}
+{"multi": false, "question": "ZH1905的值机柜台是多少？", "answers": [0], "condidate": [["ZH1905的值机柜台", "D15-D20"]]}
+{"multi": true, "question": "CA1327的前序航班前序航班是哪个？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的前序航班", "无"]]}
+{"multi": true, "question": "H01774的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "沈阳疫情等级？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "杭州的防疫政策是什么样的？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905的行李转盘是多少？", "answers": [0], "condidate": [["ZH1905的行李转盘", "未知"]]}
+{"multi": false, "question": "西安的疫情等级？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": false, "question": "深圳的防疫政策是什么样的？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班的前一个航班是哪个？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "ZH1905的目的地是？", "answers": [0], "condidate": [["ZH1905的目的地", "西安"]]}
+{"multi": false, "question": "ZH1905的值机柜台有哪些？", "answers": [0], "condidate": [["ZH1905的值机柜台", "D15-D20"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的登机口有哪些？", "answers": [0], "condidate": [["CZ6501的登机口", "17"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的目的地是哪？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的目的地", "上海"]]}
+{"multi": false, "question": "CZ6496的执飞飞机多少？", "answers": [0], "condidate": [["CZ6496的执飞飞机", "B301L"]]}
+{"multi": true, "question": "H01774的前序航班属于什么航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA1590的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B6733是哪个型号？", "answers": [0], "condidate": [["B6733的型号", "A320-200"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "H01774是延误状态吗？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": false, "question": "H01774属于什么航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "H01774是哪个航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "北京防疫政策是什么样的？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496几点起飞？", "answers": [0], "condidate": [["CZ6496的起飞时间", "13:35"]]}
+{"multi": true, "question": "CA1327的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905是哪个航司？", "answers": [0], "condidate": [["ZH1905的航司", "深圳航空"]]}
+{"multi": false, "question": "CZ6501有没有餐食？", "answers": [0], "condidate": [["CZ6501的是否有餐食", "有"]]}
+{"multi": false, "question": "广州疫情等级是多少？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的起点是哪？", "answers": [0], "condidate": [["CA8346的出发地", "呼和浩特"]]}
+{"multi": true, "question": "CZ6501的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CA1590的目的地是？", "answers": [0], "condidate": [["CA1590的目的地", "北京"]]}
+{"multi": true, "question": "CA1327的前序航班的准点率如何？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的准点率", "81.9"]]}
+{"multi": false, "question": "CZ6496是否延误？", "answers": [0], "condidate": [["CZ6496的是否延误", "否"]]}
+{"multi": false, "question": "H01774是否有餐食？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "CZ6496的航司是哪个？", "answers": [0], "condidate": [["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特疫情等级是多少？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "成都的防疫政策是什么样的？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B6733的机龄？", "answers": [0], "condidate": [["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "CZ6501的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的前序航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01774"]]}
+{"multi": false, "question": "B7879的仓位数量是多少？", "answers": [0], "condidate": [["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905的登机口有哪些？", "answers": [0], "condidate": [["ZH1905的登机口", "B83"]]}
+{"multi": true, "question": "CA1327的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "ZH1905的前序航班的值机柜台有哪些？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的值机柜台", "B"]]}
+{"multi": false, "question": "CA1327的执飞飞机什么？", "answers": [0], "condidate": [["CA1327的执飞飞机", "B7879"]]}
+{"multi": false, "question": "H01774的目的地是？", "answers": [0], "condidate": [["H01774的目的地", "大连"]]}
+{"multi": false, "question": "广州的疫情等级多少？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班的执飞飞机？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的执飞飞机", "B6733"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "北京的疫情等级多少？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "H01774的前序航班几点起飞？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "13:05"]]}
+{"multi": false, "question": "CA1327的登机口是多少？", "answers": [0], "condidate": [["CA1327的登机口", "C07"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级多少？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的登机口是多少？", "answers": [0], "condidate": [["H01774的登机口", "2"]]}
+{"multi": false, "question": "B301L飞了几年？", "answers": [0], "condidate": [["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CA1590的行李转盘是多少号？", "answers": [0], "condidate": [["CA1590的行李转盘", "31"]]}
+{"multi": true, "question": "CZ6501的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CA1327的行李转盘是多少号？", "answers": [0], "condidate": [["CA1327的行李转盘", "8"]]}
+{"multi": false, "question": "北京的疫情等级是什么？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的起点是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "南京"]]}
+{"multi": false, "question": "上海的防疫政策如何？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "杭州防疫政策是什么样的？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B207U仓位数量有多少？", "answers": [0], "condidate": [["B207U的仓位数量", "120"]]}
+{"multi": false, "question": "北京的疫情等级是什么？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连疫情等级是多少？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的前一个航班是哪个？", "answers": [0], "condidate": [["CZ6496的前序航班", "无"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的起飞时间？", "answers": [0], "condidate": [["CA8346的起飞时间", "08:00"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的登机口有哪些？", "answers": [0], "condidate": [["CA8346的登机口", "113"]]}
+{"multi": false, "question": "B207U有多少个仓位？", "answers": [0], "condidate": [["B207U的仓位数量", "120"]]}
+{"multi": true, "question": "CA8346的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": true, "question": "H01774的前序航班的准点率？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的准点率", "90"]]}
+{"multi": false, "question": "杭州的疫情等级多少？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班是否延误？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": false, "question": "沈阳的疫情等级？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的前一个航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01774"]]}
+{"multi": true, "question": "CA1590的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连的疫情等级多少？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "大连疫情等级？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501属于什么航司？", "answers": [0], "condidate": [["CZ6501的航司", "南方航空"]]}
+{"multi": false, "question": "忻州的疫情等级多少？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346是否延误？", "answers": [0], "condidate": [["CA8346的是否延误", "无"]]}
+{"multi": true, "question": "ZH1905的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CA1327的前序航班的航司？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的航司", "中国航空"]]}
+{"multi": false, "question": "CA1327有餐食吗？", "answers": [0], "condidate": [["CA1327的是否有餐食", "有"]]}
+{"multi": false, "question": "CA8346的执飞飞机什么？", "answers": [0], "condidate": [["CA8346的执飞飞机", "B6733"]]}
+{"multi": false, "question": "沈阳疫情等级是什么？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级多少？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "成都疫情等级？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "H01774延误了吗？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": false, "question": "CA8346延误了吗？", "answers": [0], "condidate": [["CA8346的是否延误", "无"]]}
+{"multi": false, "question": "成都防疫政策是什么样的？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501延误了吗？", "answers": [0], "condidate": [["CZ6501的是否延误", "否"]]}
+{"multi": true, "question": "ZH1905的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "成都疫情等级？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": true, "question": "H01774的前序航班属于哪个航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA1327的前序航班的起点是哪？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "CA8346的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "H01774的前序航班有没有餐食？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "大连的疫情等级是什么？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "CA1327的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "CA1327属于哪个航司？", "answers": [0], "condidate": [["CA1327的航司", "中国航空"]]}
+{"multi": false, "question": "CZ6496是哪个航司？", "answers": [0], "condidate": [["CZ6496的航司", "南方航空"]]}
+{"multi": false, "question": "H01774前序航班是什么？", "answers": [0], "condidate": [["H01774的前序航班", "H01773"]]}
+{"multi": true, "question": "CA1327的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的目的地是哪？", "answers": [0], "condidate": [["CZ6501的目的地", "上海"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "广州防疫政策是什么样的？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "广州疫情等级是什么？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": false, "question": "成都的疫情等级是什么？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "B1681仓位数量有多少？", "answers": [0], "condidate": [["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "H01774的终点是哪？", "answers": [0], "condidate": [["H01774的目的地", "大连"]]}
+{"multi": true, "question": "CA1327的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的准点率？", "answers": [0], "condidate": [["CZ6501的准点率", "81.9"]]}
+{"multi": true, "question": "CA1590的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "B6733的机龄是多少？", "answers": [0], "condidate": [["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "B1681的机龄？", "answers": [0], "condidate": [["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CA1327的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连的防疫政策如何？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "大连的疫情等级？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳的疫情等级是什么？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "H01774的行李转盘是多少？", "answers": [0], "condidate": [["H01774的行李转盘", "101"]]}
+{"multi": true, "question": "H01774的前序航班属于什么航司？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "B301L的仓位数量是多少？", "answers": [0], "condidate": [["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "CA1590的航司是哪个？", "answers": [0], "condidate": [["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "CA1590的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": true, "question": "CA1327的前序航班前序航班是什么？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的前序航班", "无"]]}
+{"multi": true, "question": "CZ6501的前序航班是否延误？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否延误", "否"]]}
+{"multi": false, "question": "沈阳疫情等级是多少？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特疫情等级是多少？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "深圳疫情等级是什么？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590属于哪个航司？", "answers": [0], "condidate": [["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的前序航班是否延误？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": false, "question": "CA1327是哪个航司？", "answers": [0], "condidate": [["CA1327的航司", "中国航空"]]}
+{"multi": false, "question": "B301L是什么型号的？", "answers": [0], "condidate": [["B301L的型号", "A320NEO"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496是否有餐食？", "answers": [0], "condidate": [["CZ6496的是否有餐食", "有"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级是什么？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班的目的地哪里？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的目的地", "上海"]]}
+{"multi": false, "question": "忻州疫情等级？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的终点是哪？", "answers": [0], "condidate": [["CA8346的目的地", "杭州"]]}
+{"multi": false, "question": "CA1590前序航班是哪个？", "answers": [0], "condidate": [["CA1590的前序航班", "无"]]}
+{"multi": false, "question": "呼和浩特疫情等级？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特防疫政策是什么样的？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "深圳的疫情等级是什么？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "B1681的机龄是多少？", "answers": [0], "condidate": [["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": true, "question": "ZH1905的前序航班延误了吗？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否延误", "无"]]}
+{"multi": false, "question": "乌鲁木齐的防疫政策是什么样的？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的型号", "B777-300ER"]]}
+{"multi": false, "question": "CA1590的值机柜台有哪些？", "answers": [0], "condidate": [["CA1590的值机柜台", "A08-A21"]]}
+{"multi": false, "question": "CZ6496有餐食吗？", "answers": [0], "condidate": [["CZ6496的是否有餐食", "有"]]}
+{"multi": false, "question": "上海疫情等级是多少？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "北京的疫情等级？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "忻州的疫情等级是什么？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "深圳防疫政策是什么样的？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327是否延误？", "answers": [0], "condidate": [["CA1327的是否延误", "否"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "广州的疫情等级多少？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的值机柜台有哪些？", "answers": [0], "condidate": [["CZ6496的值机柜台", "A1-10,A21-A40"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "西安的疫情等级多少？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班前序航班是什么？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的前序航班", "无"]]}
+{"multi": true, "question": "H01774的前序航班延误了吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否延误", "否"]]}
+{"multi": false, "question": "CA1327的起点是哪？", "answers": [0], "condidate": [["CA1327的出发地", "北京"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "北京的防疫政策是什么样的？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班的行李转盘是多少号？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的行李转盘", "B3"]]}
+{"multi": true, "question": "CA1590的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": false, "question": "B6733的仓位数量是多少？", "answers": [0], "condidate": [["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的执飞飞机多少？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "成都疫情等级是什么？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的准点率如何？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的准点率", "90"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的目的地是哪？", "answers": [0], "condidate": [["CZ6496的目的地", "上海"]]}
+{"multi": true, "question": "CA1327的前序航班的值机柜台是多少？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的值机柜台", "A08-A21"]]}
+{"multi": false, "question": "H01774的出发地是？", "answers": [0], "condidate": [["H01774的出发地", "南京"]]}
+{"multi": false, "question": "上海疫情等级？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": false, "question": "忻州的防疫政策是什么样的？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327前序航班是哪个？", "answers": [0], "condidate": [["CA1327的前序航班", "CA1590"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特的疫情等级是什么？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "南京疫情等级？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "深圳的疫情等级多少？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的出发地哪里？", "answers": [0], "condidate": [["H01774的出发地", "忻州"]]}
+{"multi": false, "question": "CZ6501的终点是哪？", "answers": [0], "condidate": [["CZ6501的目的地", "上海"]]}
+{"multi": false, "question": "呼和浩特的防疫政策如何？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496有没有餐食？", "answers": [0], "condidate": [["CZ6496的是否有餐食", "有"]]}
+{"multi": false, "question": "CA8346什么时起飞？", "answers": [0], "condidate": [["CA8346的起飞时间", "08:00"]]}
+{"multi": false, "question": "B301L是哪个型号的？", "answers": [0], "condidate": [["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "北京疫情等级是什么？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的目的地哪里？", "answers": [0], "condidate": [["CZ6501的目的地", "上海"]]}
+{"multi": false, "question": "大连防疫政策是什么样的？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "广州疫情等级是什么？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": false, "question": "CA1590是哪个航司？", "answers": [0], "condidate": [["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的前序航班什么时起飞？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "10:15"]]}
+{"multi": false, "question": "CA1590的登机口是多少？", "answers": [0], "condidate": [["CA1590的登机口", "30"]]}
+{"multi": true, "question": "CZ6496的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "北京疫情等级是多少？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班属于哪个航司？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的出发地是？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "南京"]]}
+{"multi": false, "question": "CA1327的准点率？", "answers": [0], "condidate": [["CA1327的准点率", "81.9"]]}
+{"multi": false, "question": "H01774的出发地哪里？", "answers": [0], "condidate": [["H01774的出发地", "南京"]]}
+{"multi": false, "question": "B207U是哪个型号？", "answers": [0], "condidate": [["B207U的型号", "B787-9"]]}
+{"multi": false, "question": "忻州防疫政策是什么样的？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的执飞飞机多少？", "answers": [0], "condidate": [["CA1590的执飞飞机", "B7879"]]}
+{"multi": false, "question": "广州疫情等级？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的行李转盘是多少号？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的行李转盘", "31"]]}
+{"multi": true, "question": "H01774的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "沈阳疫情等级是什么？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "深圳的疫情等级？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "B1681飞了多少年？", "answers": [0], "condidate": [["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": true, "question": "CZ6501的前序航班的行李转盘是多少？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的行李转盘", "4"]]}
+{"multi": true, "question": "CZ6496的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "沈阳的疫情等级是什么？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "H01774有餐食吗？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "B6733飞了几年？", "answers": [0], "condidate": [["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "H01774的航司是哪个？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905的出发地哪里？", "answers": [0], "condidate": [["ZH1905的出发地", "杭州"]]}
+{"multi": true, "question": "CA1327的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的前一个航班是哪个？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的前序航班", "无"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "广州疫情等级？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590几点起飞？", "answers": [0], "condidate": [["CA1590的起飞时间", "08:05"]]}
+{"multi": false, "question": "H01774的起点是哪？", "answers": [0], "condidate": [["H01774的出发地", "忻州"]]}
+{"multi": false, "question": "呼和浩特的疫情等级多少？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的起点是哪？", "answers": [0], "condidate": [["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "CZ6501的前序航班的起飞时间？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的起飞时间", "13:35"]]}
+{"multi": true, "question": "CA1327的前序航班的登机口是多少？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的登机口", "30"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "杭州的疫情等级？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590前序航班是什么？", "answers": [0], "condidate": [["CA1590的前序航班", "无"]]}
+{"multi": false, "question": "CZ6501的前一个航班是哪个？", "answers": [0], "condidate": [["CZ6501的前序航班", "CZ6496"]]}
+{"multi": false, "question": "CZ6496的出发地是哪？", "answers": [0], "condidate": [["CZ6496的出发地", "沈阳"]]}
+{"multi": false, "question": "ZH1905的准点率如何？", "answers": [0], "condidate": [["ZH1905的准点率", "79.3"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "广州的疫情等级是什么？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的执飞飞机仓位数量？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CZ6496的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CA1327的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特的防疫政策是什么样的？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳的疫情等级？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "南京的疫情等级多少？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1590的起飞时间？", "answers": [0], "condidate": [["CA1590的起飞时间", "08:05"]]}
+{"multi": false, "question": "CZ6496属于哪个航司？", "answers": [0], "condidate": [["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "H01774的前序航班有没有餐食？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "乌鲁木齐的防疫政策如何？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的目的地是哪？", "answers": [0], "condidate": [["H01774的目的地", "南京"]]}
+{"multi": false, "question": "忻州疫情等级是多少？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的准点率如何？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的准点率", "90"]]}
+{"multi": false, "question": "H01774属于哪个航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "H01774的行李转盘是多少？", "answers": [0], "condidate": [["H01774的行李转盘", "未知"]]}
+{"multi": true, "question": "H01774的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的目的地是哪？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的目的地", "杭州"]]}
+{"multi": true, "question": "CZ6501的前序航班的出发地是哪？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的出发地", "沈阳"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级是什么？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班是延误状态吗？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否延误", "否"]]}
+{"multi": false, "question": "CA1590的出发地哪里？", "answers": [0], "condidate": [["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的目的地哪里？", "answers": [0], "condidate": [["CA8346的目的地", "杭州"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特的疫情等级？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的准点率如何？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的准点率", "90"]]}
+{"multi": true, "question": "H01774的前序航班的目的地是？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "大连"]]}
+{"multi": false, "question": "CA8346的准点率？", "answers": [0], "condidate": [["CA8346的准点率", "90"]]}
+{"multi": false, "question": "CA1327的值机柜台有哪些？", "answers": [0], "condidate": [["CA1327的值机柜台", "J,K"]]}
+{"multi": false, "question": "呼和浩特的疫情等级？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": true, "question": "CA8346的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的值机柜台是多少？", "answers": [0], "condidate": [["CZ6501的值机柜台", "A1-10,A18-A20"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "CA8346的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的准点率？", "answers": [0], "condidate": [["H01774的准点率", "90"]]}
+{"multi": false, "question": "H01774的出发地是哪？", "answers": [0], "condidate": [["H01774的出发地", "忻州"]]}
+{"multi": true, "question": "CA1590的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班的值机柜台有哪些？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的值机柜台", "A08-A21"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级是多少？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "B6733的机龄是多少年？", "answers": [0], "condidate": [["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "CA1327的航司是哪个？", "answers": [0], "condidate": [["CA1327的航司", "中国航空"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "B1681飞了几年？", "answers": [0], "condidate": [["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班延误了吗？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否延误", "否"]]}
+{"multi": true, "question": "CZ6501的前序航班的准点率如何？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的准点率", "81.9"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "CA1590的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "忻州的防疫政策如何？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的值机柜台有哪些？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的值机柜台", "1-3"]]}
+{"multi": true, "question": "CZ6496的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的起飞时间？", "answers": [0], "condidate": [["CZ6501的起飞时间", "15:00"]]}
+{"multi": false, "question": "北京的防疫政策是什么样的？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774的航司是哪个？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA1590的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "忻州的防疫政策如何？", "answers": [0], "condidate": [["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496的航司？", "answers": [0], "condidate": [["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "H01774的前序航班的目的地是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "大连"]]}
+{"multi": false, "question": "H01774的航司？", "answers": [0], "condidate": [["H01774的航司", "吉祥航空"]]}
+{"multi": false, "question": "上海的疫情等级是什么？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "乌鲁木齐疫情等级是多少？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的目的地是哪？", "answers": [0], "condidate": [["H01774的目的地", "大连"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机什么？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "南京的防疫政策如何？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774的目的地哪里？", "answers": [0], "condidate": [["H01774的目的地", "大连"]]}
+{"multi": false, "question": "大连的疫情等级是什么？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的准点率？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的准点率", "81.9"]]}
+{"multi": false, "question": "H01774是否有餐食？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "深圳的防疫政策如何？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的前序航班有没有餐食？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否有餐食", "无"]]}
+{"multi": false, "question": "CA1327什么时起飞？", "answers": [0], "condidate": [["CA1327的起飞时间", "14:00"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "B6733有多少个仓位？", "answers": [0], "condidate": [["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "H01774有没有餐食？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳疫情等级是多少？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905的出发地是？", "answers": [0], "condidate": [["ZH1905的出发地", "杭州"]]}
+{"multi": true, "question": "CA1590的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": false, "question": "杭州防疫政策是什么样的？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496的准点率？", "answers": [0], "condidate": [["CZ6496的准点率", "81.9"]]}
+{"multi": true, "question": "CZ6501的前序航班的执飞飞机多少？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的执飞飞机", "B301L"]]}
+{"multi": true, "question": "H01774的前序航班的终点是哪？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "大连"]]}
+{"multi": true, "question": "CA1327的前序航班的终点是哪？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的目的地", "北京"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501什么时起飞？", "answers": [0], "condidate": [["CZ6501的起飞时间", "15:00"]]}
+{"multi": true, "question": "CA1327的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "杭州的疫情等级？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的准点率如何？", "answers": [0], "condidate": [["CA8346的准点率", "90"]]}
+{"multi": true, "question": "H01774的前序航班什么时起飞？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的起飞时间", "13:05"]]}
+{"multi": false, "question": "CA1590的执飞飞机？", "answers": [0], "condidate": [["CA1590的执飞飞机", "B7879"]]}
+{"multi": false, "question": "B7879的机龄？", "answers": [0], "condidate": [["B7879的机龄", "5年"]]}
+{"multi": false, "question": "H01774的终点是哪？", "answers": [0], "condidate": [["H01774的目的地", "南京"]]}
+{"multi": false, "question": "H01774的起点是哪？", "answers": [0], "condidate": [["H01774的出发地", "南京"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "南京的防疫政策如何？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "成都的疫情等级多少？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的前序航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01773"]]}
+{"multi": true, "question": "ZH1905的前序航班前序航班是什么？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的前序航班", "CA8345"]]}
+{"multi": true, "question": "CA8346的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "H01774是否延误？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": false, "question": "H01774的值机柜台有哪些？", "answers": [0], "condidate": [["H01774的值机柜台", "1-3"]]}
+{"multi": false, "question": "南京疫情等级是多少？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的出发地是哪？", "answers": [0], "condidate": [["CZ6501的出发地", "沈阳"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的型号", "A320-200"]]}
+{"multi": true, "question": "CZ6501的前序航班的执飞飞机？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的执飞飞机", "B301L"]]}
+{"multi": false, "question": "乌鲁木齐防疫政策是什么样的？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346前序航班是哪个？", "answers": [0], "condidate": [["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "CZ6496的执飞飞机什么？", "answers": [0], "condidate": [["CZ6496的执飞飞机", "B301L"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "深圳疫情等级是多少？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班是否延误？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的是否延误", "无"]]}
+{"multi": false, "question": "H01774的起飞时间？", "answers": [0], "condidate": [["H01774的起飞时间", "13:05"]]}
+{"multi": true, "question": "CZ6496的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班属于哪个航司？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "ZH1905的前序航班的前序航班是哪个？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "广州的疫情等级？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机是哪个型号的？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的型号", "A320-200"]]}
+{"multi": false, "question": "CZ6501前序航班是哪个？", "answers": [0], "condidate": [["CZ6501的前序航班", "CZ6496"]]}
+{"multi": false, "question": "CA1590是否有餐食？", "answers": [0], "condidate": [["CA1590的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的前序航班的航司？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的准点率如何？", "answers": [0], "condidate": [["H01774的准点率", "90"]]}
+{"multi": true, "question": "CZ6496的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "H01774的准点率如何？", "answers": [0], "condidate": [["H01774的准点率", "90"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "西安的疫情等级？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "南京的疫情等级是什么？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "忻州的疫情等级？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "西安的防疫政策是什么样的？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": true, "question": "CA1590的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的行李转盘是多少？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的行李转盘", "B3"]]}
+{"multi": true, "question": "ZH1905的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": true, "question": "H01774的前序航班的准点率？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的准点率", "90"]]}
+{"multi": true, "question": "H01774的前序航班前序航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01773"]]}
+{"multi": false, "question": "广州的防疫政策如何？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "B1681有多少个仓位？", "answers": [0], "condidate": [["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "广州的防疫政策是什么样的？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327的前序航班是哪个？", "answers": [0], "condidate": [["CA1327的前序航班", "CA1590"]]}
+{"multi": false, "question": "CA8346的值机柜台是多少？", "answers": [0], "condidate": [["CA8346的值机柜台", "B"]]}
+{"multi": true, "question": "CZ6501的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "大连疫情等级？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特疫情等级？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班有餐食吗？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否有餐食", "有"]]}
+{"multi": true, "question": "H01774的前序航班的前序航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01773"]]}
+{"multi": false, "question": "CA8346的出发地哪里？", "answers": [0], "condidate": [["CA8346的出发地", "呼和浩特"]]}
+{"multi": false, "question": "H01774延误了吗？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": true, "question": "H01774的前序航班的航司是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的航司", "吉祥航空"]]}
+{"multi": true, "question": "CA1327的执飞飞机的仓位数量是多少？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "CA1327的执飞飞机？", "answers": [0], "condidate": [["CA1327的执飞飞机", "B7879"]]}
+{"multi": false, "question": "广州的疫情等级是什么？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346前序航班是什么？", "answers": [0], "condidate": [["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "南京的防疫政策是什么样的？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "B6733仓位数量？", "answers": [0], "condidate": [["B6733的仓位数量", "120"]]}
+{"multi": false, "question": "CA1590的前序航班是哪个？", "answers": [0], "condidate": [["CA1590的前序航班", "无"]]}
+{"multi": false, "question": "H01774前序航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01774"]]}
+{"multi": false, "question": "ZH1905的准点率？", "answers": [0], "condidate": [["ZH1905的准点率", "79.3"]]}
+{"multi": false, "question": "H01774什么时起飞？", "answers": [0], "condidate": [["H01774的起飞时间", "13:05"]]}
+{"multi": false, "question": "H01774有餐食吗？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "CA1590的目的地是哪？", "answers": [0], "condidate": [["CA1590的目的地", "北京"]]}
+{"multi": false, "question": "乌鲁木齐防疫政策是什么样的？", "answers": [0], "condidate": [["乌鲁木齐的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的执飞飞机是什么型号的？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "南京的防疫政策是什么样的？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "上海防疫政策是什么样的？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的准点率？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的准点率", "81.9"]]}
+{"multi": true, "question": "ZH1905的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班延误了吗？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否延误", "否"]]}
+{"multi": true, "question": "CA1590的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "杭州的疫情等级是什么？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "深圳疫情等级？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": false, "question": "南京的疫情等级多少？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "上海的疫情等级？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": false, "question": "广州的疫情等级？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的目的地是？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的目的地", "南京"]]}
+{"multi": false, "question": "杭州疫情等级？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的值机柜台是多少？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的值机柜台", "B"]]}
+{"multi": false, "question": "ZH1905的前一个航班是哪个？", "answers": [0], "condidate": [["ZH1905的前序航班", "CA8346"]]}
+{"multi": true, "question": "CZ6501的前序航班属于哪个航司？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的航司", "南方航空"]]}
+{"multi": false, "question": "北京防疫政策是什么样的？", "answers": [0], "condidate": [["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "杭州的防疫政策是什么样的？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346有餐食吗？", "answers": [0], "condidate": [["CA8346的是否有餐食", "无"]]}
+{"multi": true, "question": "H01774的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "H01774的前序航班是否有餐食？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": false, "question": "B207U仓位数量？", "answers": [0], "condidate": [["B207U的仓位数量", "120"]]}
+{"multi": false, "question": "B207U有多少个仓位？", "answers": [0], "condidate": [["B207U的仓位数量", "120"]]}
+{"multi": true, "question": "CA1590的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的前序航班的执飞飞机什么？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "ZH1905的目的地是哪？", "answers": [0], "condidate": [["ZH1905的目的地", "西安"]]}
+{"multi": false, "question": "北京的疫情等级？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590的执飞飞机什么？", "answers": [0], "condidate": [["CA1590的执飞飞机", "B7879"]]}
+{"multi": false, "question": "沈阳的防疫政策是什么样的？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1590的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "CZ6501的起点是哪？", "answers": [0], "condidate": [["CZ6501的出发地", "沈阳"]]}
+{"multi": true, "question": "ZH1905的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905几点起飞？", "answers": [0], "condidate": [["ZH1905的起飞时间", "15:30"]]}
+{"multi": false, "question": "杭州的防疫政策如何？", "answers": [0], "condidate": [["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6496的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "ZH1905的执飞飞机多少？", "answers": [0], "condidate": [["ZH1905的执飞飞机", "B6733"]]}
+{"multi": false, "question": "B7879是什么型号的？", "answers": [0], "condidate": [["B7879的型号", "B777-300ER"]]}
+{"multi": true, "question": "H01774的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "深圳的防疫政策是什么样的？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的行李转盘是多少号？", "answers": [0], "condidate": [["CZ6501的行李转盘", "35"]]}
+{"multi": true, "question": "CA1327的前序航班几点起飞？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的起飞时间", "08:05"]]}
+{"multi": false, "question": "乌鲁木齐的疫情等级？", "answers": [0], "condidate": [["乌鲁木齐的疫情等级", "低"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "杭州的疫情等级是什么？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的出发地是？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的出发地", "呼和浩特"]]}
+{"multi": true, "question": "H01774的前序航班的行李转盘是多少号？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的行李转盘", "101"]]}
+{"multi": false, "question": "CZ6496属于什么航司？", "answers": [0], "condidate": [["CZ6496的航司", "南方航空"]]}
+{"multi": false, "question": "CA1590的登机口有哪些？", "answers": [0], "condidate": [["CA1590的登机口", "30"]]}
+{"multi": false, "question": "CA1327的航司？", "answers": [0], "condidate": [["CA1327的航司", "中国航空"]]}
+{"multi": false, "question": "杭州疫情等级是多少？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "呼和浩特的防疫政策是什么样的？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的出发地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的执飞飞机什么？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的执飞飞机", "B301L"]]}
+{"multi": true, "question": "CA1327的前序航班的执飞飞机多少？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的执飞飞机", "B7879"]]}
+{"multi": false, "question": "CZ6501是否有餐食？", "answers": [0], "condidate": [["CZ6501的是否有餐食", "有"]]}
+{"multi": false, "question": "CZ6501的登机口是多少？", "answers": [0], "condidate": [["CZ6501的登机口", "17"]]}
+{"multi": true, "question": "ZH1905的前序航班的出发地哪里？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的出发地", "呼和浩特"]]}
+{"multi": false, "question": "大连防疫政策是什么样的？", "answers": [0], "condidate": [["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "广州疫情等级是多少？", "answers": [0], "condidate": [["广州的疫情等级", "低"]]}
+{"multi": false, "question": "广州防疫政策是什么样的？", "answers": [0], "condidate": [["广州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "上海的疫情等级是什么？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的航司是哪个？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的航司", "中国航空"]]}
+{"multi": false, "question": "CZ6501的航司是哪个？", "answers": [0], "condidate": [["CZ6501的航司", "南方航空"]]}
+{"multi": true, "question": "CA1327的前序航班的前序航班是哪个？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的前序航班", "无"]]}
+{"multi": false, "question": "CA8346的行李转盘是多少号？", "answers": [0], "condidate": [["CA8346的行李转盘", "B3"]]}
+{"multi": false, "question": "ZH1905有餐食吗？", "answers": [0], "condidate": [["ZH1905的是否有餐食", "无"]]}
+{"multi": false, "question": "B207U是什么型号的？", "answers": [0], "condidate": [["B207U的型号", "B787-9"]]}
+{"multi": true, "question": "H01774的前序航班的值机柜台是多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的值机柜台", "1-3"]]}
+{"multi": true, "question": "H01774的出发地疫情等级？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特的疫情等级是什么？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的登机口是多少？", "answers": [0], "condidate": [["CZ6496的登机口", "33"]]}
+{"multi": false, "question": "北京疫情等级是多少？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "B7879飞了多少年？", "answers": [0], "condidate": [["B7879的机龄", "5年"]]}
+{"multi": false, "question": "H01774的执飞飞机？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "CA1327的值机柜台是多少？", "answers": [0], "condidate": [["CA1327的值机柜台", "J,K"]]}
+{"multi": true, "question": "CA1590的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1590的出发地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CZ6501的执飞飞机什么？", "answers": [0], "condidate": [["CZ6501的执飞飞机", "B301L"]]}
+{"multi": true, "question": "ZH1905的前序航班的起点是哪？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的出发地", "呼和浩特"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的起点是哪？", "answers": [0], "condidate": [["CZ6496的出发地", "沈阳"]]}
+{"multi": true, "question": "CZ6501的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "沈阳的防疫政策如何？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA8346的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA8346的出发地", "呼和浩特"], ["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "B1681是哪个型号的？", "answers": [0], "condidate": [["B1681的型号", "A320-200"]]}
+{"multi": false, "question": "B1681的仓位数量是多少？", "answers": [0], "condidate": [["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "CZ6501的值机柜台有哪些？", "answers": [0], "condidate": [["CZ6501的值机柜台", "A1-10,A18-A20"]]}
+{"multi": false, "question": "大连疫情等级是什么？", "answers": [0], "condidate": [["大连的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的前序航班的前序航班是哪个？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的前序航班", "无"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的出发地是？", "answers": [0], "condidate": [["H01774的出发地", "忻州"]]}
+{"multi": false, "question": "CA1327几点起飞？", "answers": [0], "condidate": [["CA1327的起飞时间", "14:00"]]}
+{"multi": false, "question": "H01774是延误状态吗？", "answers": [0], "condidate": [["H01774的是否延误", "否"]]}
+{"multi": false, "question": "深圳的防疫政策如何？", "answers": [0], "condidate": [["深圳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327的登机口有哪些？", "answers": [0], "condidate": [["CA1327的登机口", "C07"]]}
+{"multi": true, "question": "CZ6501的前序航班的值机柜台是多少？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的值机柜台", "A1-10,A21-A40"]]}
+{"multi": false, "question": "上海疫情等级？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的前序航班的目的地是？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的目的地", "北京"]]}
+{"multi": true, "question": "CZ6501的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "B207U的机龄？", "answers": [0], "condidate": [["B207U的机龄", "2.8年"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CZ6496的执飞飞机？", "answers": [0], "condidate": [["CZ6496的执飞飞机", "B301L"]]}
+{"multi": false, "question": "H01774几点起飞？", "answers": [0], "condidate": [["H01774的起飞时间", "13:05"]]}
+{"multi": true, "question": "CA1327的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的目的地的疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的目的地", "西安"], ["西安的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的登机口是多少？", "answers": [0], "condidate": [["CA8346的登机口", "113"]]}
+{"multi": true, "question": "H01774的前序航班的行李转盘是多少号？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的行李转盘", "未知"]]}
+{"multi": false, "question": "CZ6496的起飞时间？", "answers": [0], "condidate": [["CZ6496的起飞时间", "13:35"]]}
+{"multi": false, "question": "沈阳的防疫政策如何？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班的登机口是多少？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的登机口", "33"]]}
+{"multi": false, "question": "CA1590的航司？", "answers": [0], "condidate": [["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1327前序航班是什么？", "answers": [0], "condidate": [["CA1327的前序航班", "CA1590"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "CZ6501几点起飞？", "answers": [0], "condidate": [["CZ6501的起飞时间", "15:00"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "成都疫情等级是多少？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的出发地疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的出发地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的出发地", "忻州"], ["忻州的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特疫情等级是什么？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机飞了几年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "北京疫情等级是什么？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496是延误状态吗？", "answers": [0], "condidate": [["CZ6496的是否延误", "否"]]}
+{"multi": true, "question": "CZ6501的前序航班有餐食吗？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的是否有餐食", "有"]]}
+{"multi": false, "question": "CA1590属于什么航司？", "answers": [0], "condidate": [["CA1590的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6501的前序航班是哪个？", "answers": [0], "condidate": [["CZ6501的前序航班", "CZ6496"]]}
+{"multi": false, "question": "B6733是什么型号的？", "answers": [0], "condidate": [["B6733的型号", "A320-200"]]}
+{"multi": false, "question": "上海的疫情等级多少？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327的准点率如何？", "answers": [0], "condidate": [["CA1327的准点率", "81.9"]]}
+{"multi": false, "question": "H01774的目的地哪里？", "answers": [0], "condidate": [["H01774的目的地", "南京"]]}
+{"multi": false, "question": "B7879是哪个型号的？", "answers": [0], "condidate": [["B7879的型号", "B777-300ER"]]}
+{"multi": true, "question": "ZH1905的前序航班的目的地是？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的目的地", "杭州"]]}
+{"multi": false, "question": "ZH1905的航司？", "answers": [0], "condidate": [["ZH1905的航司", "深圳航空"]]}
+{"multi": true, "question": "CZ6501的前序航班的终点是哪？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的目的地", "上海"]]}
+{"multi": false, "question": "杭州疫情等级是什么？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "CA1327是延误状态吗？", "answers": [0], "condidate": [["CA1327的是否延误", "否"]]}
+{"multi": false, "question": "CZ6501前序航班是什么？", "answers": [0], "condidate": [["CZ6501的前序航班", "CZ6496"]]}
+{"multi": false, "question": "B1681是哪个型号？", "answers": [0], "condidate": [["B1681的型号", "A320-200"]]}
+{"multi": true, "question": "CA1327的前序航班的出发地哪里？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的出发地", "上海"]]}
+{"multi": false, "question": "上海疫情等级是什么？", "answers": [0], "condidate": [["上海的疫情等级", "低"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": true, "question": "CA1327的出发地的疫情等级？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346的前序航班是哪个？", "answers": [0], "condidate": [["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "B301L的机龄？", "answers": [0], "condidate": [["B301L的机龄", "2.8年"]]}
+{"multi": true, "question": "CA8346的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": false, "question": "H01774几点起飞？", "answers": [0], "condidate": [["H01774的起飞时间", "10:15"]]}
+{"multi": false, "question": "CZ6501是否延误？", "answers": [0], "condidate": [["CZ6501的是否延误", "否"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": false, "question": "深圳疫情等级是多少？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": false, "question": "B1681的机龄是多少年？", "answers": [0], "condidate": [["B1681的机龄", "12.2年"]]}
+{"multi": true, "question": "CA8346的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CA8346的执飞飞机", "B6733"], ["B6733的仓位数量", "120"]]}
+{"multi": false, "question": "H01774的执飞飞机什么？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": false, "question": "呼和浩特的防疫政策如何？", "answers": [0], "condidate": [["呼和浩特的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的前序航班有没有餐食？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否有餐食", "有"]]}
+{"multi": false, "question": "杭州疫情等级？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的执飞飞机什么？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的执飞飞机", "B6733"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳防疫政策是什么样的？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "沈阳的疫情等级多少？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的出发地哪里？", "answers": [0], "condidate": [["CZ6496的出发地", "沈阳"]]}
+{"multi": true, "question": "CA1327的前序航班什么时起飞？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的起飞时间", "08:05"]]}
+{"multi": true, "question": "CA8346的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "杭州疫情等级是什么？", "answers": [0], "condidate": [["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "H01774的前序航班是哪个？", "answers": [0], "condidate": [["H01774的前序航班", "H01774"]]}
+{"multi": false, "question": "ZH1905是否有餐食？", "answers": [0], "condidate": [["ZH1905的是否有餐食", "无"]]}
+{"multi": true, "question": "H01774的前序航班的前一个航班是哪个？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的前序航班", "H01774"]]}
+{"multi": true, "question": "CZ6496的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "CA1327延误了吗？", "answers": [0], "condidate": [["CA1327的是否延误", "否"]]}
+{"multi": false, "question": "B301L的机龄是多少？", "answers": [0], "condidate": [["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "H01774的行李转盘是多少号？", "answers": [0], "condidate": [["H01774的行李转盘", "未知"]]}
+{"multi": false, "question": "深圳的疫情等级多少？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "CA8346的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "西安防疫政策是什么样的？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6496前序航班是什么？", "answers": [0], "condidate": [["CZ6496的前序航班", "无"]]}
+{"multi": false, "question": "西安疫情等级是什么？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": false, "question": "成都的疫情等级是什么？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班的登机口是多少？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的登机口", "2"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "西安疫情等级是什么？", "answers": [0], "condidate": [["西安的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳的疫情等级多少？", "answers": [0], "condidate": [["沈阳的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的前序航班有餐食吗？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的是否有餐食", "有"]]}
+{"multi": true, "question": "CZ6501的执飞飞机的机龄是多少？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的机龄", "2.8年"]]}
+{"multi": false, "question": "CZ6496的目的地哪里？", "answers": [0], "condidate": [["CZ6496的目的地", "上海"]]}
+{"multi": false, "question": "忻州的疫情等级？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CZ6501的前序航班的目的地是？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的目的地", "上海"]]}
+{"multi": true, "question": "CA1327的前序航班是否延误？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的是否延误", "否"]]}
+{"multi": true, "question": "ZH1905的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "成都疫情等级是多少？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "CZ6496的登机口有哪些？", "answers": [0], "condidate": [["CZ6496的登机口", "33"]]}
+{"multi": true, "question": "CA1327的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["CA1327的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "CA1327的出发地疫情等级？", "answers": [0, 1], "condidate": [["CA1327的出发地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "ZH1905的执飞飞机的机龄？", "answers": [0, 1], "condidate": [["ZH1905的执飞飞机", "B6733"], ["B6733的机龄", "10.5年"]]}
+{"multi": true, "question": "CA8346的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA8346的目的地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特的疫情等级多少？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地疫情等级？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的疫情等级", "低"]]}
+{"multi": false, "question": "CA8346属于什么航司？", "answers": [0], "condidate": [["CA8346的航司", "中国航空"]]}
+{"multi": true, "question": "H01774的执飞飞机飞了多少年？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的机龄", "12.2年"]]}
+{"multi": false, "question": "CA8346的前一个航班是哪个？", "answers": [0], "condidate": [["CA8346的前序航班", "CA8345"]]}
+{"multi": false, "question": "H01774有没有餐食？", "answers": [0], "condidate": [["H01774的是否有餐食", "有"]]}
+{"multi": true, "question": "CA1590的目的地疫情等级是多少？", "answers": [0, 1], "condidate": [["CA1590的目的地", "北京"], ["北京的疫情等级", "低"]]}
+{"multi": true, "question": "H01774的目的地疫情等级是什么？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的疫情等级", "低"]]}
+{"multi": false, "question": "西安的防疫政策如何？", "answers": [0], "condidate": [["西安的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CZ6501的出发地是？", "answers": [0], "condidate": [["CZ6501的出发地", "沈阳"]]}
+{"multi": false, "question": "CA8346的目的地是？", "answers": [0], "condidate": [["CA8346的目的地", "杭州"]]}
+{"multi": false, "question": "忻州疫情等级是多少？", "answers": [0], "condidate": [["忻州的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["CZ6496的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": false, "question": "H01774的值机柜台是多少？", "answers": [0], "condidate": [["H01774的值机柜台", "1-3"]]}
+{"multi": true, "question": "CZ6496的目的地的防疫政策如何？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "CA1327的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["CA1327的目的地", "广州"], ["广州的疫情等级", "低"]]}
+{"multi": false, "question": "CA1590延误了吗？", "answers": [0], "condidate": [["CA1590的是否延误", "否"]]}
+{"multi": false, "question": "深圳的疫情等级是什么？", "answers": [0], "condidate": [["深圳的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6496的出发地防疫政策是什么样的？", "answers": [0, 1], "condidate": [["CZ6496的出发地", "沈阳"], ["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905前序航班是哪个？", "answers": [0], "condidate": [["ZH1905的前序航班", "CA8346"]]}
+{"multi": true, "question": "CZ6501的目的地的疫情等级？", "answers": [0, 1], "condidate": [["CZ6501的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": false, "question": "呼和浩特疫情等级是什么？", "answers": [0], "condidate": [["呼和浩特的疫情等级", "低"]]}
+{"multi": false, "question": "ZH1905属于哪个航司？", "answers": [0], "condidate": [["ZH1905的航司", "深圳航空"]]}
+{"multi": true, "question": "H01774的目的地疫情等级？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的出发地的疫情等级是什么？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的疫情等级", "低"]]}
+{"multi": false, "question": "北京疫情等级？", "answers": [0], "condidate": [["北京的疫情等级", "低"]]}
+{"multi": false, "question": "成都的疫情等级？", "answers": [0], "condidate": [["成都的疫情等级", "低"]]}
+{"multi": false, "question": "沈阳的防疫政策是什么样的？", "answers": [0], "condidate": [["沈阳的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的目的地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的目的地", "大连"], ["大连的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "ZH1905的出发地是哪？", "answers": [0], "condidate": [["ZH1905的出发地", "杭州"]]}
+{"multi": true, "question": "CA1327的前序航班的出发地是？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的出发地", "上海"]]}
+{"multi": true, "question": "CA1327的前序航班是哪个航司？", "answers": [0, 1], "condidate": [["CA1327的前序航班", "CA1590"], ["CA1590的航司", "中国航空"]]}
+{"multi": false, "question": "CA1327的行李转盘是多少？", "answers": [0], "condidate": [["CA1327的行李转盘", "8"]]}
+{"multi": true, "question": "CZ6496的目的地的疫情等级是什么？", "answers": [0, 1], "condidate": [["CZ6496的目的地", "上海"], ["上海的疫情等级", "低"]]}
+{"multi": true, "question": "ZH1905的前序航班的航司？", "answers": [0, 1], "condidate": [["ZH1905的前序航班", "CA8346"], ["CA8346的航司", "中国航空"]]}
+{"multi": false, "question": "南京防疫政策是什么样的？", "answers": [0], "condidate": [["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["H01774的出发地", "南京"], ["南京的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA8346的行李转盘是多少？", "answers": [0], "condidate": [["CA8346的行李转盘", "B3"]]}
+{"multi": true, "question": "CZ6501的前序航班是哪个航司？", "answers": [0, 1], "condidate": [["CZ6501的前序航班", "CZ6496"], ["CZ6496的航司", "南方航空"]]}
+{"multi": true, "question": "CA1590的执飞飞机的机龄是多少年？", "answers": [0, 1], "condidate": [["CA1590的执飞飞机", "B7879"], ["B7879的机龄", "5年"]]}
+{"multi": true, "question": "H01774的目的地的疫情等级多少？", "answers": [0, 1], "condidate": [["H01774的目的地", "南京"], ["南京的疫情等级", "低"]]}
+{"multi": true, "question": "CZ6501的执飞飞机有多少个仓位？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的仓位数量", "70"]]}
+{"multi": true, "question": "CZ6501的执飞飞机是哪个型号？", "answers": [0, 1], "condidate": [["CZ6501的执飞飞机", "B301L"], ["B301L的型号", "A320NEO"]]}
+{"multi": false, "question": "B7879仓位数量？", "answers": [0], "condidate": [["B7879的仓位数量", "100"]]}
+{"multi": false, "question": "ZH1905的前序航班是哪个？", "answers": [0], "condidate": [["ZH1905的前序航班", "CA8346"]]}
+{"multi": false, "question": "南京的疫情等级是什么？", "answers": [0], "condidate": [["南京的疫情等级", "低"]]}
+{"multi": false, "question": "上海的防疫政策如何？", "answers": [0], "condidate": [["上海的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": false, "question": "CA1590有餐食吗？", "answers": [0], "condidate": [["CA1590的是否有餐食", "有"]]}
+{"multi": false, "question": "成都防疫政策是什么样的？", "answers": [0], "condidate": [["成都的防疫政策", "不需要核酸检测证明，需要行程码"]]}
+{"multi": true, "question": "H01774的执飞飞机仓位数量有多少？", "answers": [0, 1], "condidate": [["H01774的执飞飞机", "B1681"], ["B1681的仓位数量", "150"]]}
+{"multi": false, "question": "CZ6501的执飞飞机多少？", "answers": [0], "condidate": [["CZ6501的执飞飞机", "B301L"]]}
+{"multi": true, "question": "H01774的前序航班的出发地是？", "answers": [0, 1], "condidate": [["H01774的前序航班", "H01774"], ["H01774的出发地", "忻州"]]}
+{"multi": false, "question": "H01774的执飞飞机什么？", "answers": [0], "condidate": [["H01774的执飞飞机", "B1681"]]}
+{"multi": true, "question": "ZH1905的出发地的防疫政策是什么样的？", "answers": [0, 1], "condidate": [["ZH1905的出发地", "杭州"], ["杭州的防疫政策", "不需要核酸检测证明，需要行程码"]]}
